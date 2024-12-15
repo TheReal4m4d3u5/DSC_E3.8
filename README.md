@@ -41,3 +41,4 @@ WHERE c.customer_city = 'Harrison';
 ![alt text](image.png)
 
 
+![alt text](image-1.png)
